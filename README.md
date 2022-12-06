@@ -55,6 +55,14 @@ I am a Full Stack Developer :computer: from Latvia.
 
 ---
 
+### :mortar_board: Education : 
+
+<a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree in Computer Science: Artificial Intelligence</a><br>
+<a href="https://tsi.lv/"><img src="https://tsi.lv/wp-content/uploads/2020/08/tsi_logo_en_blue.svg" title="TSI" alt="TSI" width="100"/></a>&nbsp;
+<a href="https://www.uwe.ac.uk/"><img src="https://www.uwe.ac.uk/assets/img/logo.svg" title="UWE Bristol" alt="UWE Bristol" width="100"/></a>
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyPerunov&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyPerunov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
