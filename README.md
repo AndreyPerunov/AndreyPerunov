@@ -70,5 +70,5 @@ Feel free to contact me, I am always opened to new connections!👐
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=AndreyPerunov&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyPerunov&tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyPerunov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
