@@ -30,7 +30,7 @@ I love to gain new knowladge and experience📈.
 Feel free to contact me, I am always opened to new connections!👐
 - :mortar_board: **1** year of *<a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree in Computer Science: Artificial Intelligence</a>* in **<a href="https://tsi.lv/">TSI</a>** :heavy_plus_sign: **<a href="https://www.uwe.ac.uk/">UWE Bristol</a>**
 
-- :seedling: I'm currently learning React.js
+- :seedling: I'm currently learning React Native
 
 - :zap: In my free time, I watch tech videos and read tech articles.
 
