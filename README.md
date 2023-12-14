@@ -24,7 +24,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 I am a Full Stack Developer :computer: from Latvia.
 I love to gain new knowladge and experience📈. 
 Feel free to contact me, I am always opened to new connections!👐
@@ -35,6 +35,8 @@ Feel free to contact me, I am always opened to new connections!👐
 - :zap: In my free time, I watch tech videos and read tech articles.
 
 - :mailbox:How to reach me: &nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-linkedin-url](https://www.instagram.com/_andreyperunov_/))
+
+- :globe_with_meridians:Portfolio: [andreyperunov.com](https://www.andreyperunov.com/)
 
 ---
 
