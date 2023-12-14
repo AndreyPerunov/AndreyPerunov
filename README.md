@@ -32,15 +32,13 @@ Feel free to contact me, I am always opened to new connections!👐
 
 - :seedling: I'm currently learning Angular
 
-- :zap: In my free time, I watch tech videos and read tech articles.
-
 - :mailbox:How to reach me: &nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-linkedin-url](https://www.instagram.com/_andreyperunov_/))
 
-- :globe_with_meridians:Portfolio: [andreyperunov.com](https://www.andreyperunov.com/)
+- :globe_with_meridians:Portfolio: &nbsp;[andreyperunov.com](https://www.andreyperunov.com/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
@@ -63,20 +61,13 @@ Feel free to contact me, I am always opened to new connections!👐
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### :mortar_board: Education : 
+### Education : 
 
 <ul><li>Started in 2022: <a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree in Computer Science: Artificial Intelligence</a></li></ul>
 <br>
 <a href="https://tsi.lv/"><img src="https://tsi.lv/wp-content/uploads/2020/08/tsi_logo_en_blue.svg" title="TSI" alt="TSI" height="100"/></a>&nbsp;
 <a href="https://www.uwe.ac.uk/"><img src="https://www.uwe.ac.uk/assets/img/logo.svg" title="UWE Bristol" alt="UWE Bristol" height="100"/></a>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyPerunov&tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyPerunov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
