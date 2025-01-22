@@ -34,7 +34,7 @@ Feel free to contact me, I am always opened to new connections!👐
 
 - :mailbox:How to reach me: &nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-linkedin-url](https://www.instagram.com/_andreyperunov_/))
 
-- :globe_with_meridians:Portfolio: &nbsp;[andreyperunov.com](https://www.andreyperunov.com/)
+- :globe_with_meridians:Portfolio: &nbsp;[andreyperunov.com](https://andreyperunov.com/)
 
 ---
 
