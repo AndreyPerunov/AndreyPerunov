@@ -28,7 +28,7 @@
 I am a Full Stack Developer :computer: from Latvia.
 I love to gain new knowladge and experience📈. 
 Feel free to contact me, I am always opened to new connections!👐
-- :mortar_board: **3** year of *<a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree in Computer Science: Artificial Intelligence</a>* in **<a href="https://tsi.lv/">TSI</a>** :heavy_plus_sign: **<a href="https://www.uwe.ac.uk/">UWE Bristol</a>**
+- :mortar_board: **4** year of *<a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree in Computer Science: Artificial Intelligence</a>* in **<a href="https://tsi.lv/">TSI</a>** :heavy_plus_sign: **<a href="https://www.uwe.ac.uk/">UWE Bristol</a>**
 
 - :mailbox:How to reach me: &nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-linkedin-url](https://www.instagram.com/_andreyperunov_/))
 
