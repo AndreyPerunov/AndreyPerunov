@@ -8,10 +8,10 @@
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discordc Badge"/>
     </a>
     <a href="mailto:andrey.perunov1@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Discordc Badge"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/andrey-perunov">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discordc Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinekedIn Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AndreyPerunov&style=flat-square&color=blue" alt="views"/>
@@ -26,8 +26,8 @@
 
 ### About Me :
 I am a Full Stack Developer :computer: from Latvia.
-I love to gain new knowladge and experience📈. 
-Feel free to contact me, I am always opened to new connections!👐
+I love to gain new knowledge and experience📈. 
+Feel free to contact me, I am always open to new connections!👐
 - :mortar_board: **Final** year of *<a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree in Computer Science: Artificial Intelligence</a>* in **<a href="https://tsi.lv/">TSI</a>** :heavy_plus_sign: **<a href="https://www.uwe.ac.uk/">UWE Bristol</a>**
 
 - :mailbox:How to reach me: &nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-linkedin-url](https://www.instagram.com/_andreyperunov_/))
@@ -52,7 +52,7 @@ Feel free to contact me, I am always opened to new connections!👐
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -69,7 +69,7 @@ Feel free to contact me, I am always opened to new connections!👐
 
 ### Education : 
 
-<ul><li>Started in 2022: <a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree in Computer Science: Artificial Intelligence</a></li></ul>
+<ul><li>2022 – 2026: <a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree in Computer Science: Artificial Intelligence</a></li></ul>
 <br>
 <a href="https://tsi.lv/"><img src="https://tsi.lv/wp-content/uploads/2020/08/tsi_logo_en_blue.svg" title="TSI" alt="TSI" height="100"/></a>&nbsp;
 <a href="https://www.uwe.ac.uk/"><img src="https://www.uwe.ac.uk/assets/img/logo.svg" title="UWE Bristol" alt="UWE Bristol" height="100"/></a>
