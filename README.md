@@ -30,7 +30,8 @@ I love to gain new knowledge and experience📈.
 Feel free to contact me, I am always open to new connections!👐
 - :mortar_board: **BSc in Computer Science: Artificial Intelligence** — *<a href="https://tsi.lv/study_programmes/computer-sciences-double-degree-artificial-intelligence/">Double Degree</a>* from **<a href="https://tsi.lv/">TSI</a>** :heavy_plus_sign: **<a href="https://www.uwe.ac.uk/">UWE Bristol</a>** (2026)
 
-- :mailbox:How to reach me: &nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-linkedin-url](https://www.instagram.com/_andreyperunov_/))
+- :mailbox:How to reach me: &nbsp;<a href="https://www.instagram.com/_andreyperunov_/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 
 - :globe_with_meridians:Portfolio: &nbsp;[andreyperunov.com](https://andreyperunov.com/)
 
